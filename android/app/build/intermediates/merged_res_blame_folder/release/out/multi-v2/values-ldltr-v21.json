@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.weatherapp-mergeReleaseResources-4:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\RAEON\\.gradle\\caches\\transforms-3\\6b728203aa407c7ff5ce9447768377e8\\transformed\\appcompat-1.4.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
